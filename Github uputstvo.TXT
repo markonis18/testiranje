@@ -1,0 +1,86 @@
+Da — možeš postati editor (kolaborator sa punim pristupom) na Markovom GitHub repozitorijumu, ali Marko mora da te doda jer je on vlasnik naloga/projekta.
+
+Evo jasnog STEP-BY-STEP uputstva, najjednostavnijeg mogućeg.
+
+✅ Opcija 1: Ako je repozitorijum PRIVATAN ili želite kontrolu pristupa (najčešće)
+
+Marko te dodaje kao Collaborator.
+
+1. Marko se uloguje na GitHub
+
+Otvara svoj repozitorijum.
+
+2. Ulazi u Settings
+
+Klik na Settings u repozitorijumu (ne na nalog, nego u repo-u).
+
+3. Odlazi na “Collaborators and teams”
+
+Levi meni → Collaborators and teams
+(nekad se zove samo Collaborators).
+
+4. Klik na “Add collaborator”
+
+GitHub će tražiti da se verifikuje lozinka.
+
+5. Marko unosi tvoje GitHub korisničko ime
+
+npr. @tvoje-ime
+
+6. Ti dobijaš pozivnicu (email + GitHub notifikacija)
+
+Klikneš Accept invitation.
+
+✔ Nakon što prihvatiš:
+
+Dobijaš dozvole kao editor (write):
+
+push
+
+pull
+
+edit
+
+brisanje fajlova
+
+otvaranje/mergovanje PR-ova
+
+otvaranje branch-eva
+
+upravljanje issues i discussions
+
+Ako želiš admin privilegije (pristup Settings, permisije, brisanje repoa), Marko može da ti promeni ulogu na:
+
+Settings → Collaborators → Permissions → Admin
+
+✅ Opcija 2: Ako je repozitorijum u organizaciji (GitHub Organization)
+
+Marko te dodaje u team sa određenim pravima.
+
+Postupak:
+Organization → People → Invite member → Add to team → Give write/admin rights
+
+❗ Važno pojašnjenje
+
+Ti ne možeš postati editor njegovog celog naloga (accounta) — to je kao lična kartica.
+Možeš postati editor na bilo kom repozitorijumu koji ti on omogući.
+
+GitHub ne dozvoljava deljenje celog naloga iz bezbednosnih razloga.
+
+🔧 Ako želiš da ti Marko da potpuni admin pristup repozitorijumu
+
+Marko radi:
+
+Settings → Collaborators → Edit → Change role → Admin
+
+Tada možeš:
+
+menjati Settings
+
+dodavati druge korisnike
+
+brisati repozitorijum
+
+menjati branch zaštite
+
+menjati vidljivost repozitorijuma
